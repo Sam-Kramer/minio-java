@@ -18,7 +18,6 @@
 package io.minio;
 
 import com.google.common.collect.HashMultimap;
-import com.google.common.collect.ImmutableMap;
 import com.google.common.collect.Multimap;
 import com.google.common.io.ByteStreams;
 import io.minio.credentials.Credentials;
